@@ -1,5 +1,7 @@
 # AmongUs-Graph-Problems
 
+*Graph Theory Problems applied to the universe of Among Us*
+
 **Date de réalisation :** Décembre 2020
 
 **Cadre du projet :** Cours "Advanced Data Structure & Algorithms" en 4ème année à l’ESILV (2ème année du cycle ingénieur), réalisé en binôme avec Parth
